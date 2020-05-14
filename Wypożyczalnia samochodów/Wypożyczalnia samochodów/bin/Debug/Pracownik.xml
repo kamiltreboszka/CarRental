@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOsoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba xsi:type="Pracownik">
+    <Imie>ADMIN</Imie>
+    <Nazwisko>ADMIN</Nazwisko>
+    <Pesel>12345654321</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Pracownik">
+    <Imie>KAMIL</Imie>
+    <Nazwisko>TREBOSZKA</Nazwisko>
+    <Pesel>99060404132</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Pracownik">
+    <Imie>WIKTOR</Imie>
+    <Nazwisko>ORLOWSKI</Nazwisko>
+    <Pesel>99051104172</Pesel>
+  </Osoba>
+</ArrayOfOsoba>

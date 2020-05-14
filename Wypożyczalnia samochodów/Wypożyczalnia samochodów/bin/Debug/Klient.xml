@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOsoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba xsi:type="Klient">
+    <Imie>MARCIN</Imie>
+    <Nazwisko>MAZUREK</Nazwisko>
+    <Pesel>83020933857</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>SEBASTIAN</Imie>
+    <Nazwisko>BARANOWSKI</Nazwisko>
+    <Pesel>90110381193</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>AGATA</Imie>
+    <Nazwisko>WYSOCKA</Nazwisko>
+    <Pesel>86110492722</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>GRAŻYNA</Imie>
+    <Nazwisko>MAZUR</Nazwisko>
+    <Pesel>94090458344</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>MARCIN</Imie>
+    <Nazwisko>GAJEWSKI</Nazwisko>
+    <Pesel>93010796951</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>KRYSTYNA</Imie>
+    <Nazwisko>SIKORA</Nazwisko>
+    <Pesel>75091334949</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>KRZYSZTOF</Imie>
+    <Nazwisko>KOWALSKI</Nazwisko>
+    <Pesel>83022266773</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>ADAM</Imie>
+    <Nazwisko>JASIŃSKI</Nazwisko>
+    <Pesel>83011672299</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>PIOTR</Imie>
+    <Nazwisko>ADAMCZYK</Nazwisko>
+    <Pesel>70060369793</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>WALDEMAR</Imie>
+    <Nazwisko>WIECZOREK</Nazwisko>
+    <Pesel>90110421932</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>JANUSZ</Imie>
+    <Nazwisko>ANDRZEJEWSKI</Nazwisko>
+    <Pesel>72011999174</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>PIOTR</Imie>
+    <Nazwisko>MALINOWSKI</Nazwisko>
+    <Pesel>73051764511</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>MARTA</Imie>
+    <Nazwisko>SOBCZAK</Nazwisko>
+    <Pesel>82021285369</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>ANDRZEJ</Imie>
+    <Nazwisko>SZEWCZYK</Nazwisko>
+    <Pesel>88101148977</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>ROMAN</Imie>
+    <Nazwisko>SAWICKI</Nazwisko>
+    <Pesel>83052359919</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>JOANNA</Imie>
+    <Nazwisko>BARANOWSKA</Nazwisko>
+    <Pesel>73071014465</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>MAREK</Imie>
+    <Nazwisko>WIŚNIEWSKI</Nazwisko>
+    <Pesel>99011494317</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>EWA</Imie>
+    <Nazwisko>DUDA</Nazwisko>
+    <Pesel>91011154721</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>MARIAN</Imie>
+    <Nazwisko>KOWALSKI</Nazwisko>
+    <Pesel>83121594836</Pesel>
+  </Osoba>
+  <Osoba xsi:type="Klient">
+    <Imie>TOMASZ</Imie>
+    <Nazwisko>KUCHARSKI</Nazwisko>
+    <Pesel>71092951839</Pesel>
+  </Osoba>
+</ArrayOfOsoba>

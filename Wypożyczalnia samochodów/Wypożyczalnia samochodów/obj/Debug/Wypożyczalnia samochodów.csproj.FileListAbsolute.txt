@@ -1,0 +1,6 @@
+C:\Users\Kamil\source\repos\Wypożyczalnia samochodów\Wypożyczalnia samochodów\bin\Debug\Wypożyczalnia samochodów.exe.config
+C:\Users\Kamil\source\repos\Wypożyczalnia samochodów\Wypożyczalnia samochodów\bin\Debug\Wypożyczalnia samochodów.exe
+C:\Users\Kamil\source\repos\Wypożyczalnia samochodów\Wypożyczalnia samochodów\bin\Debug\Wypożyczalnia samochodów.pdb
+C:\Users\Kamil\source\repos\Wypożyczalnia samochodów\Wypożyczalnia samochodów\obj\Debug\Wypożyczalnia samochodów.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\Wypożyczalnia samochodów\Wypożyczalnia samochodów\obj\Debug\Wypożyczalnia samochodów.exe
+C:\Users\Kamil\source\repos\Wypożyczalnia samochodów\Wypożyczalnia samochodów\obj\Debug\Wypożyczalnia samochodów.pdb
